@@ -1,11 +1,4 @@
 #!/usr/bin/nodejs
-<<<<<<< HEAD
-/*Parte del codigo extraido de http://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm
-Parte del codigo adaptado a otro funcionamiento y corregido variables que no estaban correctamente definidas
-instalar npm install express --save
-parecido a la busqueda de tickets*/
-=======
->>>>>>> 28b5f2dee80d1afbbff56a7bd904148d2db6cd0b
 
 var express = require('express');
 var app = express();
